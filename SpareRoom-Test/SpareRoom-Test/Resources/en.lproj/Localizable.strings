@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SpareRoom-Test
+
+  Created by Shamil Imanov on 20.04.2025.
+  
+*/
+
+"appTitle" = "SRM Event Helper";
+"segmentUpcoming" = "Upcoming";
+"segmentPast" = "Past";
+"segmentDraft" = "Draft";
+"offlineTitle" = "Offline";
+"errorTitle" = "Error";
+"offlineText" = "As you’re offline, we couldn’t load the latest events. Check your connection and try again.";
+"errorText" = "Oops! We couldn’t load the latest events. Check your connect and try again.";
+"retry" = "Retry";
+"checkIn" = "Check In";
+"edit" = "Edit";
